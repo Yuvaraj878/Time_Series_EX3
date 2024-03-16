@@ -12,6 +12,7 @@ type to fit the data.
 5. Represent the result in graphical representation as given below.
 ### PROGRAM:
 NAME : YUVARAJ.S
+
 REG NO : 212222240119
 ```PY
 import numpy as np
